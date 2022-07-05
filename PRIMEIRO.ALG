@@ -1,0 +1,6 @@
+Algoritmo "promeiro"
+
+
+Var
+
+Fimalgoritmo
