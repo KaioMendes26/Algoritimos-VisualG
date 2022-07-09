@@ -1,1 +1,1 @@
-# Algoritimos-VisualG-Portgol
+# Algoritimos-Portugol
